@@ -1,5 +1,5 @@
 - git clone https://github.com/yassine-moussa/git-begins.git
--git add git-begins
+git add git --all
  git commits -m "commentaire"
  git push
 git pull
