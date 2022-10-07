@@ -4,7 +4,7 @@
 -git add --all
 #si je souhaite commit que certain fichiers et pas tous
  git add "nomdufichier"
- git commands -m "commentaire"
+ git commit -m "commentaire"
  git push
 
 #commande permettant de crée une branche
