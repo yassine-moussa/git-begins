@@ -1,4 +1,12 @@
 - git clone https://github.com/yassine-moussa/git-begins.git
--git add git-begins
+
+#si je souhaite stage tous les fichiers ajoutés, modifiés
+-git add --all
+#si je souhaite commit que certain fichiers et pas tous
+ git add "nomdufichier"
  git commands -m "commentaire"
  git push
+
+#commande permettant de crée une branche
+git branch "nomdufichier"
+git checkout "nomdufichier"
